@@ -30,7 +30,7 @@ Checkout the [online playground][`gnark` Playground] to compile circuits and vis
 
 `gnark` and `gnark-crypto` packages are optimized for 64bits architectures (x86 `amd64`) and tested on Unix (Linux / macOS).
 
-## Issues
+## Issues Detail
 
 `gnark` issues are tracked [in the GitHub issues tab][`gnark` Issues].
 
